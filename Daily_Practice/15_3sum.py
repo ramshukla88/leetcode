@@ -36,4 +36,5 @@ for i in range(length - 2):  # Iterate until the third-to-last element
         else:
             right -= 1  # Move right pointer to decrease sum
 
-return res
+print(res)
+#return res
