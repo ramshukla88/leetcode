@@ -5,13 +5,12 @@
 
 nums = [-1,10,6,7,-7,1]
 nums.sort()
-nums.reverse()
 found = False
 for i in range(len(nums)):
     if -(nums[i]) in nums:
         found = True
-        print(nums[i])
-        # return (nums[i])  #Uncomment this when submitting in leet code
+        print(-nums[i])
+        # return (-nums[i])  #Uncomment this when submitting in leet code
 
 if not found:
     print("-1")
