@@ -1,27 +1,16 @@
-s = " "
+s = "abcabcbb"
+seen = {}  # Dictionary to store the index of characters
+max_length = 0
+start = 0
 
-prev = 0
-next = 0
-res = []
-high = 0
-if len(s) == 1:
-    print(1)
-for i in range(len(s)-1):
-    prev = i
-    next = i+1
-    if s[prev] not in res:
-        res.append(s[prev])
-    print(f"Before while===> Previous = {prev} next = {next} res = {res}")
-    while len(res) >= 1 and next < (len(s)):
-        if s[next] not in res:
-            res.append(s[next])
-        else:
-            if len(res) > high:
-                high = len(res)
-            res = []
-        prev += 1
-        next = next + 1
-        print(f"End of while===> Previous = {prev} next = {next} res = {res}")
+for end in range(len(s)):
+    # If the character is seen before, update the start index
+    if s[end] in seen:
+        start = max(start, seen[s[end]] + 1)
 
-print(high) if high > len(res) else print(len(res))
-# print(res)
+    # Update the last seen index of the character
+    seen[s[end]] = end
+
+    # Calculate the maximum length
+    max_length = max(max_length, end - start + 1)
+print(max_length)
