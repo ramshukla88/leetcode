@@ -1,3 +1,8 @@
+# Date: 04-May-2024
+# Author: Ram Shukla
+# Location: Hyderabad, India
+# When using in leet code replace print statements with return statements
+
 s = "abcabcbb"
 seen = {}  # Dictionary to store the index of characters
 max_length = 0
