@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec20021b-dfd8-4ea4-95e2-ad60c056d880" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Daily_Practice/205_isomorphic_strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_Challenges/237_delete_node_in_a_linked_list.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,18 +34,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.205_isomorphic_strings.executor": "Run",
-    "Python.3079_find_the_sum_of_encripted_integers.executor": "Run",
-    "Python.58_length_of_last_word.executor": "Run",
-    "Python.Day4_881_boats_to_save_people.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "G:/LeetCode"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.205_isomorphic_strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3079_find_the_sum_of_encripted_integers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.58_length_of_last_word.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day4_881_boats_to_save_people.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/LeetCode&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.205_isomorphic_strings">
     <configuration name="205_isomorphic_strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
