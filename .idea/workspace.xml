@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec20021b-dfd8-4ea4-95e2-ad60c056d880" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Daily_Challenges/day_6_remove_node_from_linked_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Daily_Challenges/Day6_2487_remove_node_from_linked_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Daily_Challenges/Day6_2487_remove_node_from_linked_list.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

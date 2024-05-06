@@ -17,8 +17,9 @@ class Solution:
         head = before
         current = head
         while current is not None and current.next is not None:
-            if current.val > current.next.val:
-                current.next = current.next.next
+            after = current.next
+            if current.val > after.val:
+                current.next = after.next
             else:
                 current = current.next
         before = None
