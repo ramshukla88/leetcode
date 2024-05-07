@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec20021b-dfd8-4ea4-95e2-ad60c056d880" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Daily_Practice/43_multipy_strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Daily_Practice/43_multipy_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Daily_Practice/43_multipy_strings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,25 +33,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.205_isomorphic_strings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3079_find_the_sum_of_encripted_integers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4_median_of_two_sorted_arrays.executor&quot;: &quot;Run&quot;,
-    &quot;Python.55_merge_intervals.executor&quot;: &quot;Run&quot;,
-    &quot;Python.58_length_of_last_word.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6_zigzag_conversion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_Reverse_Integer.executor&quot;: &quot;Run&quot;,
-    &quot;Python.8_string_to_integer.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day4_881_boats_to_save_people.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;G:/LLMTutorial&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.205_isomorphic_strings.executor": "Run",
+    "Python.3079_find_the_sum_of_encripted_integers.executor": "Run",
+    "Python.43_multipy_strings.executor": "Run",
+    "Python.4_median_of_two_sorted_arrays.executor": "Run",
+    "Python.55_merge_intervals.executor": "Run",
+    "Python.58_length_of_last_word.executor": "Run",
+    "Python.6_zigzag_conversion.executor": "Run",
+    "Python.7_Reverse_Integer.executor": "Run",
+    "Python.8_string_to_integer.executor": "Run",
+    "Python.Day4_881_boats_to_save_people.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "G:/LLMTutorial"
   }
-}</component>
-  <component name="RunManager" selected="Python.test">
+}]]></component>
+  <component name="RunManager" selected="Python.43_multipy_strings">
+    <configuration name="43_multipy_strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Daily_Practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Daily_Practice/43_multipy_strings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="55_merge_intervals" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="ENV_FILES" value="" />
@@ -67,28 +89,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Daily_Practice/55_merge_intervals.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="6_zigzag_conversion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Daily_Practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Daily_Practice/6_zigzag_conversion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.43_multipy_strings" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.55_merge_intervals" />
         <item itemvalue="Python.8_string_to_integer" />
         <item itemvalue="Python.7_Reverse_Integer" />
-        <item itemvalue="Python.6_zigzag_conversion" />
       </list>
     </recent_temporary>
   </component>
