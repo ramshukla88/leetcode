@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec20021b-dfd8-4ea4-95e2-ad60c056d880" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Daily_Practice/43_multipy_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Daily_Practice/43_multipy_strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily_Challenges/Day7_2816_double_a_number_represented_as_a_linked_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +53,7 @@
     "last_opened_file_path": "G:/LLMTutorial"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.43_multipy_strings">
+  <component name="RunManager" selected="Python.test">
     <configuration name="43_multipy_strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="ENV_FILES" value="" />
@@ -165,8 +166,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.43_multipy_strings" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.43_multipy_strings" />
         <item itemvalue="Python.55_merge_intervals" />
         <item itemvalue="Python.8_string_to_integer" />
         <item itemvalue="Python.7_Reverse_Integer" />
