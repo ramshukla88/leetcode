@@ -33,3 +33,7 @@ Optimized the linked list node removal logic by extracting `current.next` into a
 ## [9a0b6c4] - 2024-05-06
 ### Optimized code
 Added a new LeetCode problem solution (Day 6 challenge: removing nodes from a linked list based on a monotonic decreasing property). This is a single algorithmic solution file with no changes to public APIs, configuration, or documentation. The .idea/workspace.xml change reflects IDE metadata updates only.
+
+## [519a9ba] - 2024-05-05
+### Update Day5_237_delete_node_in_a_linked_list.py
+File renamed from `237_delete_node_in_a_linked_list.py` to `Day5_237_delete_node_in_a_linked_list.py` to align with the existing naming convention in the Daily_Challenges directory (other files use Day# prefix). No code changes, no functionality modifications.
